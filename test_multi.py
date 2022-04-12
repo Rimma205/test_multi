@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_multipage import MultiPage
 import sys 
 
-print(sys.path)
+st.write(sys.path)
 
 
 def my_page(st, **state):
