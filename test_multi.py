@@ -1,5 +1,8 @@
 import streamlit as st
 from streamlit_multipage import MultiPage
+import sys 
+
+print(sys.path)
 
 
 def my_page(st, **state):
