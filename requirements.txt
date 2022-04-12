@@ -1,0 +1,2 @@
+streamlit==1.7.0
+streamlit-multipage==0.0.18
